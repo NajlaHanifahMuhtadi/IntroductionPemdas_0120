@@ -31,4 +31,6 @@ int main(){
 
     cout << "Masukkan waktu =";
     cin >> waktu;
+
+    kecepatan = jarak/waktu;
 }
