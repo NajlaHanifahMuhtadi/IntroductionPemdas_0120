@@ -25,5 +25,5 @@ int main(){
 }   
 
 int main(){
-    
+    int jarak, waktu, kecepatan;
 }
