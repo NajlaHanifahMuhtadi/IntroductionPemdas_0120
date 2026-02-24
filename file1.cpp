@@ -22,4 +22,8 @@ int main(){
 
     cout << "Hasilnya=" << luas << endl;
     cout << "terimakasih";
+}   
+
+int main(){
+    
 }
