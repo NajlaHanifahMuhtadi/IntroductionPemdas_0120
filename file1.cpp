@@ -26,4 +26,6 @@ int main(){
 
 int main(){
     int jarak, waktu, kecepatan;
+    cout << "Masukkan jarak =";
+    cin >> jarak;
 }
