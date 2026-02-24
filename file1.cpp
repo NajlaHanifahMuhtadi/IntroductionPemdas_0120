@@ -28,4 +28,7 @@ int main(){
     int jarak, waktu, kecepatan;
     cout << "Masukkan jarak =";
     cin >> jarak;
+
+    cout << "Masukkan waktu =";
+    cin >> waktu;
 }
